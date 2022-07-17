@@ -39,5 +39,5 @@
 ## Veja o projeto
 
 <ul>
-  <li><a href="https://isaquecoelhodsmeta.netlify.app" target="_blank">Isaque-cdj/dsmeta</a></li>
+  <li><a href="https://dsmeta-jf.netlify.app/" target="_blank">JonathasFernandes/dsmeta</a></li>
 </ul>
